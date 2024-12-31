@@ -19,6 +19,7 @@ This repository contains a **landing page** inspired by [Zentry](https://www.zen
 - **HTML5**: Semantic markup for structured content.
 - **TailwindCSS**: Custom styles with responsiveness.
 - **JavaScript**: Interactive elements and animations.
+- **GSAP**: let's you craft high-performance animations.
 
 ---
 
@@ -33,10 +34,10 @@ This repository contains a **landing page** inspired by [Zentry](https://www.zen
 2. Open the index.html file in your browser to view the page.
 
 📈 Roadmap
- Add a contact form with validation.
- Integrate video or game trailers in the hero section.
- Include user testimonials or reviews.
- Optimize for SEO and performance.
+ Add a contact form with validation.<br />
+ Integrate video or game trailers in the hero section.<br />
+ Include user testimonials or reviews.<br />
+ Optimize for SEO and performance.<br />
 
 🙌 Contributing
 Contributions are welcome! Fork the repository, create a branch for your feature or bug fix, and submit a pull request.
