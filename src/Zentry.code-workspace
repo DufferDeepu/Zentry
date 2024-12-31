@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Zentry",
+			"path": ".."
+		},
+		{
+			"name": "public",
+			"path": "../../../Downloads/awwwards_public/public"
+		}
+	],
+	"settings": {}
+}
