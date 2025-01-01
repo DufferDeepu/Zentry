@@ -34,7 +34,6 @@ This repository contains a **landing page** inspired by [Zentry](https://www.zen
 2. Open the index.html file in your browser to view the page.
 
 📈 Roadmap <br />
- Add a contact form with validation.<br />
  Integrate video or game trailers in the hero section.<br />
  Include user testimonials or reviews.<br />
  Optimize for SEO and performance.<br />
