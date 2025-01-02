@@ -26,11 +26,7 @@ This repository contains a **landing page** inspired by [Zentry](https://www.zen
 ## 🛠️ Installation and Setup
 
 ### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/zentry-landing-page.git
-   cd zentry-landing-page
-
+1. Clone the repository.
 2. Open the index.html file in your browser to view the page.
 
 📈 Roadmap <br />
