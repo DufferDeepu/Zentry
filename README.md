@@ -1,4 +1,4 @@
-Zentry - Gaming Landing Page 🎮
+Zentry - Gaming Landing Page 🎮<br>
 <br>
 Zentry is a modern and dynamic gaming landing page clone designed to captivate audiences and showcase gaming content in an engaging and visually appealing manner. Built using cutting-edge web technologies, Zentry offers smooth animations, a responsive design, and a sleek user interface. 🌟
 <br>
@@ -27,13 +27,12 @@ Run npm run start or yarn start to get the project started.<br>
 Open http://localhost:3000 (or the address shown in your console) in your web browser to view the app.<br>
 <br>
 Contributing 🤝<br>
-<br>
-We welcome contributions! To contribute:<br>
-Fork the repository. 🍴<br>
+We welcome contributions! To contribute:<br><br>
+Fork the repository. <br>
 Create a new branch:<br>
 git checkout -b feature-name<br>
 Make your changes and commit them:<br>
 git commit -m "Description of changes"<br>
 Push to your fork<br>
 git push origin feature-name<br>
-Create a pull request on the main repository. 📨<br>
+Create a pull request on the main repository. <br>
